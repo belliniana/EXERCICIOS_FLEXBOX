@@ -1,0 +1,19 @@
+.produtos{
+    display: flex;
+    gap: 20px;
+}
+
+.produtos .card-produto{
+    width: 300px;
+    background: #222;
+    color: #fff;
+}
+
+.card-produto img{
+    width: 100%;
+}
+
+.produtos button{
+    display: flex;
+    margin: auto;
+}

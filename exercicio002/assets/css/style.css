@@ -1,0 +1,20 @@
+.conteiner{
+    display:flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.conteiner .produto{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteiner .produto img{
+    width: 100%;
+}
+
+.conteiner .produto button{
+    display: flex;
+    margin: auto;
+}
